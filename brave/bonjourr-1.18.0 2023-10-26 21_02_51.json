@@ -1,0 +1,204 @@
+{
+  "about": {
+    "browser": "chrome",
+    "version": "1.18.0"
+  },
+  "showall": true,
+  "lang": "en",
+  "dark": "enable",
+  "favicon": "🔥",
+  "tabtitle": "New tab",
+  "greeting": "",
+  "pagegap": 1,
+  "pagewidth": 1600,
+  "time": true,
+  "main": true,
+  "usdate": false,
+  "background_blur": 5,
+  "background_bright": 1,
+  "background_type": "local",
+  "quicklinks": true,
+  "linkstyle": "large",
+  "linknewtab": false,
+  "linksrow": "5",
+  "linkscjrcnj": {
+    "url": "https://github.com/POP303U",
+    "_id": "linkscjrcnj",
+    "icon": "https://github.githubassets.com/assets/apple-touch-icon-144x144-b882e354c005.png",
+    "order": 4,
+    "title": "Github"
+  },
+  "linkspgdpcb": {
+    "url": "https://chat.openai.com/",
+    "_id": "linkspgdpcb",
+    "icon": "https://chat.openai.com/apple-touch-icon.png",
+    "order": 3,
+    "title": "ChatGPT"
+  },
+  "linksbgchkm": {
+    "url": "https://accounts.google.com/b/0/AddMailService",
+    "_id": "linksbgchkm",
+    "icon": "https://www.google.com/images/branding/googleg/1x/googleg_standard_color_128dp.png",
+    "order": 2,
+    "title": "Gmail"
+  },
+  "linksqnbbdd": {
+    "url": "https://youtube.com/",
+    "_id": "linksqnbbdd",
+    "icon": "https://www.youtube.com/s/desktop/32c4e480/img/favicon_144x144.png",
+    "order": 1,
+    "title": "Youtube"
+  },
+  "linksfgrkjj": {
+    "url": "https://login.schulmanager-online.de/#/login",
+    "_id": "linksfgrkjj",
+    "icon": "https://login.schulmanager-online.de//static/assets/icons/favicon-48x48.png",
+    "order": 0,
+    "title": "Schulmanager"
+  },
+  "textShadow": 0.825,
+  "reviewPopup": "removed",
+  "cssHeight": 99.96875,
+  "css": "",
+  "hide": {
+    "settingsicon": true,
+    "weatherdesc": false,
+    "weathericon": false
+  },
+  "clock": {
+    "ampm": false,
+    "analog": false,
+    "face": "none",
+    "seconds": true,
+    "size": 1,
+    "style": "round",
+    "timezone": "auto"
+  },
+  "unsplash": {
+    "collection": "",
+    "every": "hour",
+    "lastCollec": "day",
+    "pausedImage": null,
+    "time": 1698347033604
+  },
+  "weather": {
+    "ccode": "DE",
+    "city": "Berlin",
+    "fcHigh": 11,
+    "fcLast": 1698346800,
+    "forecast": "auto",
+    "lastCall": 1698346905,
+    "lastState": {
+      "description": "moderate rain",
+      "feels_like": 10.49,
+      "icon_id": 501,
+      "sunrise": 1698299438,
+      "sunset": 1698336349,
+      "temp": 10.96,
+      "temp_max": 11.32
+    },
+    "location": [
+      48.7632,
+      11.4142,
+      48.7632,
+      11.4142
+    ],
+    "moreinfo": "none",
+    "provider": "",
+    "temperature": "both",
+    "unit": "metric"
+  },
+  "notes": {
+    "align": "left",
+    "on": false,
+    "opacity": 0.1,
+    "text": "## Mach Deutsch\n\n[ ] \" to create titles\n[ ] \"- \" or \"[ ] \" to add a list or checkbox",
+    "width": 40
+  },
+  "searchbar": {
+    "on": true,
+    "opacity": 0.1,
+    "engine": "brave",
+    "newtab": false,
+    "placeholder": "",
+    "request": "",
+    "suggestions": true
+  },
+  "quotes": {
+    "on": true,
+    "author": false,
+    "frequency": "tabs",
+    "last": 1698347343979,
+    "type": "classic",
+    "userlist": []
+  },
+  "font": {
+    "size": "14.3",
+    "availWeights": [],
+    "family": "",
+    "url": "",
+    "weight": "400"
+  },
+  "move": {
+    "layouts": {
+      "double": {
+        "grid": [
+          [
+            "time",
+            "."
+          ],
+          [
+            "main",
+            "."
+          ],
+          [
+            "quicklinks",
+            "."
+          ]
+        ],
+        "items": {}
+      },
+      "single": {
+        "grid": [
+          [
+            "time"
+          ],
+          [
+            "main"
+          ],
+          [
+            "searchbar"
+          ],
+          [
+            "quicklinks"
+          ],
+          [
+            "quotes"
+          ]
+        ],
+        "items": {}
+      },
+      "triple": {
+        "grid": [
+          [
+            ".",
+            "time",
+            "."
+          ],
+          [
+            ".",
+            "main",
+            "."
+          ],
+          [
+            ".",
+            "quicklinks",
+            "."
+          ]
+        ],
+        "items": {}
+      }
+    },
+    "selection": "single"
+  }
+}
